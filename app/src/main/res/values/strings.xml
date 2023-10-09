@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Profile UI</string>
+    <string name="name">Wibowo Assariy</string>
+    <string name="school">IDN Boarding School Solo</string>
+    <string name="status">Android Developer</string>
+    <string name="post_total">10</string>
+    <string name="rating_total">5.0</string>
+    <string name="about_me">Hello, my name is Mochammad Wibowo Assariy. I am 13 years old and was born on January 23, 2023, in Majalengka. Currently, I am a student at IDN Boarding School Solo. I have a strong interest in computer programming. Outside of school, you will often find me sitting in front of a computer, creating codes and solving problems with logic. Additionally, I always strive to excel in my education.</string>
+    <string name="ratings">Ratings</string>
+    <string name="posts">Posts</string>
+</resources>
